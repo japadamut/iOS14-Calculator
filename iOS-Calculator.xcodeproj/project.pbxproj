@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01722AD525FD56CB00A1483C /* UIButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01722AD425FD56CB00A1483C /* UIButtonExtension.swift */; };
 		01B512F125FC3476001DC3AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B512F025FC3476001DC3AC /* AppDelegate.swift */; };
 		01B512F325FC3476001DC3AC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B512F225FC3476001DC3AC /* SceneDelegate.swift */; };
 		01B512F525FC3476001DC3AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B512F425FC3476001DC3AC /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		01722AD425FD56CB00A1483C /* UIButtonExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonExtension.swift; sourceTree = "<group>"; };
 		01B512ED25FC3476001DC3AC /* iOS-Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS-Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		01B512F025FC3476001DC3AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		01B512F225FC3476001DC3AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 		01B5132625FC34F9001DC3AC /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				01722AD425FD56CB00A1483C /* UIButtonExtension.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -326,6 +329,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				01B512F525FC3476001DC3AC /* ViewController.swift in Sources */,
+				01722AD525FD56CB00A1483C /* UIButtonExtension.swift in Sources */,
 				01B512F125FC3476001DC3AC /* AppDelegate.swift in Sources */,
 				01B512F325FC3476001DC3AC /* SceneDelegate.swift in Sources */,
 				01B5133C25FC3780001DC3AC /* HomeViewController.swift in Sources */,
